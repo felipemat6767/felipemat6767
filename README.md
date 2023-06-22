@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipemat6767&label=Profile%20views&color=0e75b6&style=flat" alt="felipemat6767" /> </p>
 
-- 🔭 I’m currently working on **a Pokedex using React and Flask**
+- 🔭 I’m currently working on **an E-Commerce Page using React, MySql**
 
-- 🌱 I’m currently learning **React, Angular, Flask**
+- 🌱 I’m currently learning **Angular, MySQL and Java**
 
 - 👨‍💻 All of my projects are available at [felipemat6767](felipemat6767)
 
 - 💬 Ask me about **react, Javascript, Flask, Python**
 
-- 📫 How to reach me **felipe_6767@hotmail.es**
+- 📫 How to reach me **fmaturangong@gmail.com**
 
 - ⚡ Fun fact **I think I'm really funny, easy to work with and responsible with my work**
 
